@@ -10,7 +10,6 @@ Information:
 I want to learn js to develop beautiful and functional websites. 
 I try to learn something new all the time, try myself in new directions.
 
-
 **Skills**
 
 I studied programming languages: C++, Python, Java. 
@@ -85,7 +84,6 @@ public class Controller {
     }
 }
 ```
-
 
 **Education**
 
