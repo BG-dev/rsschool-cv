@@ -4,6 +4,7 @@ Name: Nikita Azizov
 Phone number: +375299980786
 Email: nik.azizoff2016@gmail.com
 Date of birth: 23th January 2002
+City: Minsk
 
 Information:
 I want to learn js to develop beautiful and functional websites. 
